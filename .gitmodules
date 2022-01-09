@@ -1,0 +1,3 @@
+[submodule "image-uploader-frontend"]
+	path = image-uploader-frontend
+	url = ./image-uploader-frontend
